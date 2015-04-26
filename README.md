@@ -5,7 +5,7 @@ Shiny Application : http://vikasnp.shinyapps.io/survivalPredictor
 
 Project Documentation : http://rpubs.com/npvikas/survivalPredictor
 
-5-slide pitch : http://vikasnp.github.com/Developing-Data-Products-Slidify
+5-slide pitch : https://github.com/vikasnp/Developing-Data-Products-Slidify/blob/gh-pages/index.html
 
 ##About App
 
