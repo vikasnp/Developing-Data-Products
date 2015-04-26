@@ -1,6 +1,11 @@
 # Survival Predictor - A Kaggles Titanic Challenge
 Course Project - Coursera Data Science Specialization - Course 9 - Developing Data Products
 
+Shiny Application : http://vikasnp.shinyapps.io/survivalPredictor
+
+Project Documentation : http://rpubs.com/npvikas/survivalPredictor
+
+5-slide pitch : http://vikasnp.github.com/Developing-Data-Products-Slidify
 
 ##About App
 
